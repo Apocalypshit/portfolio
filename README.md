@@ -1,5 +1,6 @@
-# Clever Programmer ReactJS Portfolio Template      
-
+# Richard Lebron Bruno Portfolio  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4b19ca91-fd2f-48f1-af57-311539653266/deploy-status)](https://app.netlify.com/sites/riclebit/deploys)
+<a href='https://github.com/CleverProgrammers/react-portfolio'>Status</a>
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
 
