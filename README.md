@@ -8,7 +8,7 @@
 ## <a href="https://riclebit.tk/">LIVE DEMO</a>
 
 ## Description
-This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
+This is a ReactJS based personal resume website
 
 ## Make it Your Own!
 #### PREREQUISITES:
